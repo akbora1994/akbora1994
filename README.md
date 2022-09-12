@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **akshayboraste778@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1DR35wJvduhWPrdtaj-pWq7rxit3BQe1i/view?usp=sharing](https://drive.google.com/file/d/1DR35wJvduhWPrdtaj-pWq7rxit3BQe1i/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1CBJcort7aBQt837ZYqpOb1RLMJyHXicg/view?usp=sharing](https://drive.google.com/file/d/1CBJcort7aBQt837ZYqpOb1RLMJyHXicg/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
