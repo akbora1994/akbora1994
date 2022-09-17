@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **MySQL,Hibernate,Spring Boot**
 
-- 👨‍💻 All of my projects are available here in my portfolio [https://akshayboraste-portfolio.netlify.app/](https://akshayboraste-portfolio.netlify.app/)
+- 👨‍💻 All of my projects are available here in my portfolio [https://akshayboraste-portfolio1.netlify.app/](https://akshayboraste-portfolio1.netlify.app/)
 
 - 📝 I wrote some blogs as well,See here [https://medium.com/me/stories/public](https://medium.com/me/stories/public)
 
