@@ -8,7 +8,7 @@
 
 - 📝 I wrote some blogs as well,See here [https://medium.com/me/stories/public](https://medium.com/me/stories/public)
 
-- 💬 Ask me about **Java,MySQL,HTML,CSS,JavaScript**
+- 💬 Ask me about **Java,MySQL,Spring,SpringBoot,Hibernate,HTML,CSS,JavaScript**
 
 - 📫 How to reach me **akshayboraste778@gmail.com**
 
