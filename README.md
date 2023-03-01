@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Java Backend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b76112f9b8f7e6707ac0d37d55532ff53f6945bb7ba5b&rid=giphy.gif&ct=g">
 
-- 🌱 I’m currently learning **MySQL,Hibernate,Spring Boot**
+- 🌱 I’m currently learning **Spring Security**
 
 - 👨‍💻 All of my projects are available here in my portfolio [https://akbora1994.github.io/](https://akbora1994.github.io/)
 
