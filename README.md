@@ -4,16 +4,15 @@
 
 - 🌱 I’m currently learning **Spring Security**
 
-- 👨‍💻 All of my projects are available here in my portfolio [https://akbora1994.github.io/](https://akbora1994.github.io/)
+- 👨‍💻 All of my projects are available here in my portfolio 
 
-- 📝 I wrote some blogs as well,See here [https://medium.com/me/stories/public](https://medium.com/me/stories/public)
+- 📝 I wrote some blogs as well,See here 
 
 - 💬 Ask me about **Java,MySQL,Spring,SpringBoot**
 
 - 📫 How to reach me **akshayboraste778@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1CBJcort7aBQt837ZYqpOb1RLMJyHXicg/view](https://drive.google.com/file/d/1CBJcort7aBQt837ZYqpOb1RLMJyHXicg/view)
-
+- 📄 Know about my experiences 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/akshay-boraste-70675323a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akshay boraste" height="30" width="40" /></a>
